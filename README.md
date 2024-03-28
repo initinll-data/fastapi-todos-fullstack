@@ -20,6 +20,6 @@ pip install -r requirements.txt  # Install from a requirements.txt file.
 ## Run Application
 
 ```bash
-uvicorn Project2_books_apis:app --reload
+python main.py
 ```
 
